@@ -1,0 +1,24 @@
+class SportClub
+City
+SportFeatures
+Membership
+Ragister_club
+Services
+Membership_plan
+
+method
+indhor game
+outdhor game
+life time membership
+weekly-
+sorttuam
+montholy-
+unament
+singal
+playeer id,name,gender,
+static
+playersname,dob,gender
+dynamic
+mobilenumber,age,city,email
+multivalue
+mobilenumber,email,address,playingroal
